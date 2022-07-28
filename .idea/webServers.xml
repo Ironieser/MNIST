@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c2bfddff-76f6-4c18-a36b-39ad87d5c512" name="mnist">
+        <fileTransfer accessType="SFTP" host="10.15.89.191" port="22112" sshConfigId="d8e30a01-3fb7-496e-9690-cf99836faef2" sshConfig="dongsx@10.15.89.191:22112 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
