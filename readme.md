@@ -13,4 +13,4 @@ Warmup: 40
 
 Dataset: MNIST/training (60000 imgs) with random labels.
 
-![image](./test.py)
+![image](./log.png)
